@@ -17,11 +17,11 @@ This project was created as a part of Udacity's mid level Full Stack Developer N
 
 This project relies on the following libraries to function:
 
-json
-webbrowser
-os
-re
+    json
+	webbrowser
+	os
+	re
 
-##Deploymen
+##How it works
 
 Just run the movie_list.py script and it will call the other files and output an html file that will display in the browser.
