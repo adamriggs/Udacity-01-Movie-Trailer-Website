@@ -1,0 +1,49 @@
+{ "movies": [
+	{
+		"title": "The Last Starfighter",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Last_starfighter_post.jpg",
+		"description": "Video games lead a boy to an interstellar adventure.",
+		"trailer": "https://www.youtube.com/watch?v=H7NaxBxFWSo"
+	},{
+		"title": "Naked Lunch",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/0/07/Naked_Lunch_film_poster.jpg",
+		"description": "A writer escapes to Tangiers to compose a seminal novel.",
+		"trailer": "https://www.youtube.com/watch?v=Q0fhzA_j6lQ"
+	},{
+		"title": "Elf",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/d/df/Elf_movie.jpg",
+		"description": "A human raised by elves searches for his father.",
+		"trailer": "https://www.youtube.com/watch?v=KfZqqO1ZCvs"
+	},{
+		"title": "Finding Nemo",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+		"description": "A father searches for his missing son.",
+		"trailer": "https://www.youtube.com/watch?v=G78WJCTXDzA"
+	},{
+		"title": "Fight Club",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+		"description": "A chance meeting with a stranger alters the course of a mans life.",
+		"trailer": "https://www.youtube.com/watch?v=_XgQA9Ab0Gw"
+	},{
+		"title": "Swingers",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/9/91/Swingers_ver2.jpg",
+		"description": "A broken hearted, unemployed actor searches for love during the 1990's swing revival.",
+		"trailer": "https://www.youtube.com/watch?v=nWCct8XbQD0"
+	},{
+		"title": "O Brother, Where Art Thou?",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/5/5b/O_brother_where_art_thou_ver1.jpg",
+		"description": "Three convicts escape from a chain gang and head out in search of treasure.",
+		"trailer": "https://www.youtube.com/watch?v=eW9Xo2HtlJI"
+	},{
+		"title": "Jacob's Ladder",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/7/70/Jacobsladderposter.jpg",
+		"description": "A Vietnam Vet suffers from mental issues after returning home.",
+		"trailer": "https://www.youtube.com/watch?v=rJztRnDxdM8"
+	},{
+		"title": "Helvetica",
+		"poster": "https://upload.wikimedia.org/wikipedia/en/d/d4/Helvetica-film.JPG",
+		"description": "A fascinating look at a font that changed everything.",
+		"trailer": "https://www.youtube.com/watch?v=X80kSDxF4rg"
+	}
+
+]}
